@@ -1,2 +1,2 @@
-# prueba_suplos
-prueba suplos
+# PROYECTO PRUEBA
+Ante mano disculpas por algunos motivos personales no pude añadir diseño o algo con un desempeño visual mejor el proyecto maneja MVC y DAO implementado esta construido sobre un ruteo y todo es manejado a pura POO y se usa PDO para consultas a Mysql   Version PHP - 8 o superior y mysql 8.0.33. se podra correr sin problemas en herramientas como xampp, wampp o lampp o subiendolo a un servidor de apache Gracias
